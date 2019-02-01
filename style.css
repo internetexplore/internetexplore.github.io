@@ -1,0 +1,27 @@
+h1 {font-size: 250%;
+font-weight: bold;
+color: green;}
+
+h2 {font-size: 200%
+font-style: italics}
+
+
+a {text-decoration: none}
+a:hover {color: yellow}
+
+p {
+    color: lightgoldenrodyellow;
+}
+
+li {color: aqua}
+ul {color: aqua}
+nav a {display: inline-block}
+nav a {border: 2px darkmagenta}
+
+
+
+body {
+    background: sandybrown;
+    font-size: 20pt;
+    font-family: 'Noto Sans JP', sans-serif;
+}
